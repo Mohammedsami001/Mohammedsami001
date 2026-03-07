@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hellow, my name is Mohammedsami, a computer science student and aspiring software developer with a strong interest in artificial intelligence, full-stack development, and building impactful technology products. I enjoy developing innovative solutions such as AI-powered applications, SaaS platforms, and real-world problem-solving tools.<br><br>Currently, focused on learning and exploring machine learning applications, and building projects that combine AI with practical use cases, including deepfake detection systems, satellite data intelligence tools and more.
+Hellow, my name is Mohammedsami, a computer engineering student and aspiring software developer with a strong interest in artificial intelligence, full-stack development, and building impactful technology products. I enjoy developing innovative solutions such as AI-powered applications, SaaS platforms, and real-world problem-solving tools.<br><br>Currently, focused on learning and exploring machine learning applications, and building projects that combine AI with practical use cases, including deepfake detection systems, satellite data intelligence tools and more.
 
 
 ## 🌐 Socials:
