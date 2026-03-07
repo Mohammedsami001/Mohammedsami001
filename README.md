@@ -12,7 +12,6 @@ Hellow, my name is Mohammedsami, a computer science student and aspiring softwar
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohammedsami001&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedsami001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mohammedsami001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
