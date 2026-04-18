@@ -17,4 +17,8 @@ Hellow, my name is Mohammedsami, a computer engineering student and aspiring sof
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammedsami001&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+![snake gif](https://github.com/Mohammedsami001/Mohammedsami001/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
