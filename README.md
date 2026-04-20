@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="480"/>
-
+  <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="30%"/>
 </p>
 
 # 💫 About Me:
-Hellow, my name is Mohammedsami, a computer engineering student and aspiring software developer with a strong interest in artificial intelligence, full-stack development, and building impactful technology products. I enjoy developing innovative solutions such as AI-powered applications, SaaS platforms, and real-world problem-solving tools.<br><br>Currently, focused on learning and exploring machine learning applications, and building projects that combine AI with practical use cases, including deepfake detection systems, satellite data intelligence tools and more. <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="left"  width="30%"/>
+Hellow, my name is Mohammedsami, a computer engineering student and aspiring software developer with a strong interest in artificial intelligence, full-stack development, and building impactful technology products. I enjoy developing innovative solutions such as AI-powered applications, SaaS platforms, and real-world problem-solving tools.<br><br>Currently, focused on learning and exploring machine learning applications, and building projects that combine AI with practical use cases, including deepfake detection systems, satellite data intelligence tools and more. 
 
 
 ## 🌐 Socials:
