@@ -22,4 +22,8 @@ Hellow, my name is Mohammedsami, a computer engineering student with a strong in
   <img alt="github contribution grid snake animation" src="https://github.com/Mohammedsami001/Mohammedsami001/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsami001&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=Mohammedsami001)
