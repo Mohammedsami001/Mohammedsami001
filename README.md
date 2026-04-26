@@ -1,6 +1,6 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=33F717&center=true&width=435&lines=Hi!%2C+Mohammedsami+Here;Building+impactful+technology+products;STAY+RELENTLESS!!)](https://git.io/typing-svg)
-
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=33F717&center=true&width=435&lines=Hi!%2C+Mohammedsami+Here;Building+impactful+technology+products;STAY+RELENTLESS!!)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="40%"/>
