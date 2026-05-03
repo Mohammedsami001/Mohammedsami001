@@ -45,9 +45,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsami001&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="mess2.gif" width="400"/> <img src="messi.gif" width="418"/>
+  <img src="messi3.gif" width="500"/>
+</P
+  
 
-  ![GitHub GIF](mess2.gif) ![GitHub GIF](messi.gif)
-</div>
 
 ![](https://komarev.com/ghpvc/?username=Mohammedsami001)
