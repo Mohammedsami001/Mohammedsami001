@@ -5,6 +5,7 @@
   <img src="https://www.animatedimages.org/data/media/568/animated-matrix-image-0023.gif" width="500" />
 </div>
 
+
 ![GitHub GIF](githubgif.gif)
 
 <h1 align="center">Hi , I'm SAMI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -15,9 +16,9 @@
 
 
 
-
-Hellow, my name is Mohammedsami, a computer engineering student with a strong interest in artificial intelligence, full-stack development, and building impactful technology products. I enjoy developing innovative solutions such as AI-powered applications, SaaS platforms, and real-world problem-solving tools.<br><br>Currently, focused on learning and exploring machine learning applications, and building projects that combine AI with practical use cases, including deepfake detection systems, satellite data intelligence tools and more. 
-
+<h4>
+  Hellow, my name is Mohammedsami, a computer engineering student with a strong interest in artificial intelligence, full-stack development, and building impactful technology products. I enjoy developing innovative solutions such as AI-powered applications, SaaS platforms, and real-     world problem-solving tools.<br><br>Currently, focused on learning and exploring machine learning applications, and building projects that combine AI with practical use cases, including deepfake detection systems, satellite data intelligence tools and more. 
+</h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sami.ipynb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammedsami-sanadi-190136325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdsamisanadi@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-D14836?logo=twitter&logoColor=white)](https://x.com/SanadiMohdsami) 
