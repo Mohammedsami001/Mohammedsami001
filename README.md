@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=8FA7F7&center=true&width=500&lines=Hi!%2C+Mohammedsami+Here.;Building+impactful+tech+products.;Focus+and+Fail+Fast.;and+STAY+RELENTLESS!!" alt="Typing SVG" /></a>
 </p>
 
-![GitHub GIF](githubgif.gif)
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="40%"/>
@@ -34,5 +33,7 @@ Hellow, my name is Mohammedsami, a computer engineering student with a strong in
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsami001&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
+![GitHub GIF](githubgif.gif)
 
 ![](https://komarev.com/ghpvc/?username=Mohammedsami001)
