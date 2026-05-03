@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B2B2B&height=90&section=header"/>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=8FA7F7&center=true&width=500&lines=Hi!%2C+Mohammedsami+Here.;Building+impactful+tech+products.;Focus+and+Fail+Fast.;and+STAY+RELENTLESS!!" alt="Typing SVG" /></a>
 </p>
