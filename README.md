@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=8FA7F7&center=true&width=500&lines=Hi!%2C+Mohammedsami+Here.;Building+impactful+tech+products.;Focus+and+Fail+Fast.;and+STAY+RELENTLESS!!" alt="Typing SVG" /></a>
 </p>
 
+![GitHub GIF](githubgif.gif)
+
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="40%"/>
   <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="30%"/>
