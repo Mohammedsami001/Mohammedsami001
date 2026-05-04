@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/568/animated-matrix-image-0011.gif" width="350" />
 </div>
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/568/animated-matrix-image-0023.gif" width="500" />
-</div>
+
+<p align="center">
+  <img src="neo.gif" width="1000"/>
+</P
 
 
 ![GitHub GIF](githubgif.gif)
