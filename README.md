@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/568/animated-matrix-image-0011.gif" width="350" />
+
+  ![Matrix Typing](https://readme-typing-svg.demolab.com?font=Courier&size=24&duration=9000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=The+Matrix+Has+You,+SAMI...;Building+AI.+Solving+Problems.;Welcome+to+my+GitHub)
 </div>
 
 <p align="center">
