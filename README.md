@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="neo.gif" width="1000"/>
-</P
+</p>
 
 
 ![GitHub GIF](githubgif.gif)
@@ -26,9 +26,9 @@
 
 ## 💻 Tech Stack:
 
-<div align="center">
-  <img height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-</div>
+<p align="center">
+  <img src="matrixcode2.gif" width="400"/>
+</p>
 
 <br>
 
