@@ -73,6 +73,7 @@
   <img src="neo3.gif" width="400"/>
 </p>
 
+#
 <div align="center"> 
     <h2>Humble enough to know that I can be replaced, wise enough to know that there's nobody else like me.</h2>
 </div>
