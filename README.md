@@ -63,7 +63,7 @@
 
 #
 <p align="center">
-  <img src="neo3.gif" width="400"/>
+  <img src="neo3.gif" width="500"/>
 </p>
 
 #
