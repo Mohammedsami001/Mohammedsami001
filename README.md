@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,cpp,aws" />
   </a>
 </p>
 
