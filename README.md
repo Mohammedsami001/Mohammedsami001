@@ -47,16 +47,23 @@
 <br>
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,javascript,python,php,bash,typescript" />
+  <h3></h3>
+  <h3>Machine Learning / AI</h3>
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv,pytorch,tensorflow" />  
+  <h3>Runtime/Environment</h3>
+  <img src="https://skillicons.dev/icons?i=linux,npm,pnpm,py" />
+  <h3>Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,androidstudio" />
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter" />
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
   <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,redis,firebase,supabase,dynamodb" />
   <h3>Devops and Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,heroku,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,heroku,vercel,netlify,cloudflare" />
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,javascript,python,php,bash,typescript,dart,kotlin" />
 </div>
 
 ##
