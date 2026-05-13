@@ -52,7 +52,11 @@
   <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,dynamodb" />
+  <h3>Devops and Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,heroku,vercel" />
 </div>
 
 ##
