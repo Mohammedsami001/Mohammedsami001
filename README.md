@@ -49,6 +49,10 @@
 <div align="center">
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,javascript,python,php,bash,typescript" />
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
 </div>
 
 ##
