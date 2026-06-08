@@ -20,7 +20,9 @@
 
 
 <h4>
-  Hellow, my name is Mohammedsami, a computer engineering student with a strong interest in artificial intelligence, full-stack development, and building impactful technology products. I enjoy developing innovative solutions such as AI-powered applications, SaaS platforms, and real-     world problem-solving tools.<br><br>Currently, focused on learning and exploring machine learning applications, and building projects that combine AI with practical use cases, including deepfake detection systems, satellite data intelligence tools and more. 
+  Hello, my name is Mohammedsami, and I am a Computer Engineering student with a strong passion for Artificial Intelligence, Full-Stack Development, and building impactful technology products. I enjoy creating innovative solutions that address real-world challenges, ranging from AI-powered applications and SaaS platforms to intelligent automation tools.
+  
+Currently, I am focused on expanding my expertise in Machine Learning, Software Development, and AI-driven systems. I actively work on projects that combine cutting-edge technology with practical applications, including deepfake detection systems, satellite intelligence platforms, and other solutions designed to solve meaningful problems. My goal is to leverage technology to build scalable, user-centric products that create real value and positive impact.
 </h4>
 
 ##
