@@ -81,6 +81,11 @@ Currently, I am focused on expanding my expertise in Machine Learning, Software 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsami001&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<div align="center">
+  
+  ![CommitPulse Contribution Graph for Mohammedsami001](https://commitpulse.vercel.app/api/streak?user=Mohammedsami001&theme=retro-terminal&bgType=radial&delta_format=absolute)  
+</div>
+
 #
 <p align="center">
   <img src="neo3.gif" width="500"/>
