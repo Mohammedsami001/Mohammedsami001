@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Matrix Typing](https://readme-typing-svg.demolab.com?font=Courier&size=24&duration=6000&pause=30&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Wake+Up+SAMI...+;The+Matrix+Has+You...;Build+What+Others+Only+Imagine.;Reality+is+Just+Another+Interface.;Free+Your+Mind.;Break+The+System.;Rewrite+The+Rules.;You've+Been+Living+Inside+The+Code.;Escaping+The+Matrix...)
+  ![Matrix Typing](https://readme-typing-svg.demolab.com?font=Courier&size=24&duration=6000&pause=30&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Wake+Up+SAMI...+;The+Matrix+Has+You...;Build+What+Others+Only+Imagine.;Reality+is+Just+Another+Interface.;Free+Your+Mind.;Break+The+System.;Rewrite+The+Rules.;You've+Been+Living+Inside+The+Code.;Escpe+The+Matrix...)
 </div>
 
 
