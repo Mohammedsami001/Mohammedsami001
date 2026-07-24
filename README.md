@@ -90,7 +90,7 @@ Currently, I am focused on expanding my expertise in Machine Learning, Software 
 
 #
 <p align="center">
-  <img src="neo3.gif" width="500"/>
+  <img src="neo3.gif" width="510"/>
 </p>
 
 #
